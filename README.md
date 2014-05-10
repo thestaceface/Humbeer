@@ -7,5 +7,5 @@ Lions and tigers and beers, oh my!
 Snap, crackle and hops
 The Beertenders
 Brewtality
-Brewhaha!
+Brewhaha - winner?
 For Richer or Pourer
