@@ -4,7 +4,7 @@
 	<title>SITE TITLE</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="images/favicon.ico" rel="shortcut icon" />
-	<link href="http://fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700|Alegreya Sans SC:800" rel="stylesheet" />
+	<link href="http://fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700|Oswald:700" rel="stylesheet" />
 	<link href="style/main.css" rel="stylesheet" />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </head>
@@ -12,34 +12,36 @@
 
 	<div id="wrapper">
 	
-		<div id="header-wrapper">
+		<div id="header-wrapper" class="header-wrapper  cf">
 			<header>
-				<img src="#" title="Logo" />
-				<h1>BLOG TITLE</h1>
+				<div class="pic-container header-logo">
+					<img src="images/logo.svg" title="Brewhaha" alt="Brewhaha" class="headerLogo" />
+				</div>	
+				<h1>BREWHAHA</h1>
 			</header>
 			
-			<nav>
-				<ul>
+			<nav class="main-menu">
+				<ul class="cf">
 					<li><a href="#">Home</a></li>
-					<li><a href="#">Recent Posts</a></li>
+					<!--<li><a href="#">Recent Posts</a></li> -->
 					<li><a href="#">About</a></li>
 					<li><a href="#">Contact</a></li>
 				</ul>
 			</nav>
 		</div> <!-- header-wrapper -->
 		
-		<div id="content-wrapper">
+		<div id="content-wrapper" class="content-wrapper">
 		
 			<section id="content">
 			
 				<h2>Recent Posts</h2>
 			
-				<article>
+				<article class="featured-post">
 					<header>
 						<h3><a href="#">BLOG 1</a></h3>
 						<p class="author-date">By: Author on 11/11/11</p>
 					</header>
-						<p>Blog blurb</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis tellus orci, et porttitor massa aliquam eget. Nulla elementum sodales nulla, eu faucibus dolor suscipit placerat. Nulla non eleifend lorem. Etiam pulvinar lorem vitae convallis molestie. </p>
 						<a href="#">Read More...</a>
 						<a href="#">'x' Comments</a>
 				</article>
@@ -49,7 +51,7 @@
 						<h3><a href="#">BLOG 2</a></h3>
 						<p class="author-date">By: Author on 11/11/11</p>
 					</header>
-						<p>Blog blurb</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis tellus orci, et porttitor massa aliquam eget. Nulla elementum sodales nulla, eu faucibus dolor suscipit placerat. Nulla non eleifend lorem. Etiam pulvinar lorem vitae convallis molestie. </p>
 						<a href="#">Read More...</a>
 						<a href="#">'x' Comments</a> <!-- perhaps keep count of how many comments/if there are comments on a post, link to comments? -->
 				</article>
@@ -59,7 +61,7 @@
 						<h3><a href="#">BLOG 3</a></h3>
 						<p class="author-date">By: Author on 11/11/11</p>
 					</header>
-						<p>Blog blurb</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis tellus orci, et porttitor massa aliquam eget. Nulla elementum sodales nulla, eu faucibus dolor suscipit placerat. Nulla non eleifend lorem. Etiam pulvinar lorem vitae convallis molestie. </p>
 						<a href="#">Read More...</a>
 						<a href="#">'x' Comments</a>
 				</article>
@@ -69,7 +71,7 @@
 						<h3><a href="#">BLOG 4</a></h3>
 						<p class="author-date">By: Author on 11/11/11</p>
 					</header>
-						<p>Blog blurb</p>
+						<p>BLorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis tellus orci, et porttitor massa aliquam eget. Nulla elementum sodales nulla, eu faucibus dolor suscipit placerat. Nulla non eleifend lorem. Etiam pulvinar lorem vitae convallis molestie. </p>
 						<a href="#">Read More...</a>
 						<a href="#">'x' Comments</a>
 				</article>
@@ -79,7 +81,7 @@
 						<h3><a href="#">BLOG 5</a></h3>
 						<p class="author-date">By: Author on 11/11/11</p>
 					</header>
-						<p>Blog blurb</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis tellus orci, et porttitor massa aliquam eget. Nulla elementum sodales nulla, eu faucibus dolor suscipit placerat. Nulla non eleifend lorem. Etiam pulvinar lorem vitae convallis molestie. </p>
 						<a href="#">Read More...</a>
 						<a href="#">'x' Comments</a> 
 				</article>
@@ -92,7 +94,7 @@
 		
 		</div> <!-- content-wrapper -->
 		
-		<div id="footer-wrapper">
+		<div id="footer-wrapper" class="footer-wrapper">
 			<footer>
 				<!-- sitemap? -->
 				<p>&copy; 2014 La Croix, Lin, Masson, Navidauskas, Stirling</p>

@@ -1,4 +1,4 @@
-*reset*/
+/*reset*/
 body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -64,15 +64,13 @@ nav ul{
 nav ul li {
 	display:block;
 	list-style:none;
-	float:left;
-	clear:left;
 }
 
-.picContainer {
+.pic-container {
 	width:100%;
 }
 
-.picContainer img {
+.pic-container img {
 	width:auto;
 	height:auto;
 	max-width:100%;
@@ -82,23 +80,46 @@ a:focus, a:active {
 	outline:#333 dotted 1px;
 }
 
+.cf:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+
+.cf { display: block; }
+
+
 /*typography*/ 
+h1, h2, h3 {
+	text-transform:uppercase;
+}
+
 h1{
-	font-family:"Alegreya Sans SC", Arial, sans-serif; /*using webfonts*/
-	font-weight:800;
-	color:#b41d00;
+	font-family:Oswald, Arial, sans-serif; /*using webfonts*/
+	font-weight:700;
+	color:#260C02;
 	font-size:2.5em;/*font sizes in ems for beter scalability*/
 }
 h2 {
-	font-family:"Alegreya Sans SC", Arial, sans-serif;
-	font-weight:800;
+	font-family:Oswald, Arial, sans-serif;
+	font-weight:700;
 	color:#914919;
 	font-size:1.75em;
 	padding-top:0.25em;
 }
 
-h3 {
-	padding:1%;
+h3 a{
+	padding:2.5%;
+	font-family:Oswald, Arial, sans-serif;
+	font-weight:700;
+	color:#ffffff;
+	background-color:#260C02;
+	margin-top: 1em;
+	font-style:normal;
+	display:block;
 }
 
 p {
@@ -112,14 +133,14 @@ article p {
 }
 
 a {
-	color:#9a1500;
+	color:#2A4A51;
 	font-style: italic;
 	text-decoration:none;
 	border-bottom:1px solid #ccc;
 }
 
 a:hover {
-	border-bottom:1px solid #9a1500;
+	border-bottom:1px solid #2A4A51;
 }
 
 nav a, h1 a, h2 a, h3 a, h4 a, h5 a {
@@ -127,7 +148,63 @@ nav a, h1 a, h2 a, h3 a, h4 a, h5 a {
 	border-bottom:0 none;
 }
 
+.main-menu a {
+	font-family: Oswald, Arial, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 0.75em 5%;
+	font-style:normal;
+	color:#260C02;
+	font-size: 1.5em;
+	background-color: #F7EBBA;
+}
+
+.main-menu li {
+	border-bottom: 1px solid #fff;
+}
+
 nav a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
 	text-decoration:none;
 	border-bottom:0 none;
+}
+
+.author-date {
+	color:#914919;
+}
+/*layout*/
+.header-logo {
+	text-align:center;
+}
+
+.main-,enu, .main-menu a {
+	display:block;
+}
+header h1 {
+	display:none;
+}
+
+.content-wrapper, .footer-wrapper {
+	width: 90%;
+	margin: 1.5em 5%;
+}
+@media screen and (min-width:24.25em) /*420px at 16px em*/ {
+	.main-menu li {
+		border-bottom: 0 none;
+		border-left:1px solid #fff;
+		-moz-boz-sizing:border-box;
+		box-sizing:border-box;
+		width:33%;
+		float:left;
+		text-align:center;
+	}
+
+	.main-menu li:first-of-type{
+		width:34%;
+		border-left: 0 none;
+	}
+
+}
+
+@media screen and (min-width:45em) /*720px at 16px em*/ {
+
 }
