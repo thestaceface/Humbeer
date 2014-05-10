@@ -256,4 +256,37 @@ header h1 {
 	.main-menu ul {
     	padding-left: 13.75em;
 	}
+
+	.content {
+		max-width:62.5em;
+		margin: 0 auto;
+	}
+
+	.featured-post header, .recent-post header {
+		position:relative;
+	}
+
+	.featured-post {
+		width:95%;
+		margin-right:5%;
+	}
+
+	.author-date {
+	    bottom: 0;
+	    color: #EEEEEE;
+	    position: absolute;
+	    right: 1%;
+	    padding:0 0 0.25em;
+	}
+
+	.recent-post {
+		width:45%;
+		margin-right:5%;
+		float:left;
+	}
+
+	.recent-image {
+	    margin-right: 0;
+	    width: 100%;
+	}
 }	
