@@ -80,7 +80,7 @@ a:focus, a:active {
 	outline:#333 dotted 1px;
 }
 
-.cf:after {
+.cf:after, article:after {
      visibility: hidden;
      display: block;
      font-size: 0;
@@ -172,6 +172,10 @@ nav a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
 	color:#914919;
 }
 /*layout*/
+.header-wrapper {
+	background-color:#260C02;
+}
+
 .header-logo {
 	text-align:center;
 }
@@ -206,5 +210,50 @@ header h1 {
 }
 
 @media screen and (min-width:45em) /*720px at 16px em*/ {
-
+	.recent-image {
+		width: 30%;
+		margin-right:5%;
+		float:left;
+	}
 }
+
+@media screen and (min-width:60em) /*960px at 16px em*/ {
+	body {
+		background-color: #F7EBBA;
+	}
+
+	.header-wrapper	{
+		background: url("../images/header.svg") repeat-x scroll center top rgba(0, 0, 0, 0);
+	}
+	
+	.header-logo {
+		width: 50%;
+		padding-top: 10px;
+	}
+
+	.main-menu {
+		float: right;
+    	margin-top: -8.5em;
+    	width: 50%;
+	}
+
+	.main-menu li {
+		border-left: 1px solid #260C02;
+	}  
+
+	.main-menu a {
+		background-color:#fff;
+	}
+}
+
+@media screen and (min-width:75em) /*1200px at 16px em*/ {
+	.header-logo {
+		width: 27.5em;
+		margin: 0 auto;
+		float:none;
+	}
+
+	.main-menu ul {
+    	padding-left: 13.75em;
+	}
+}	
