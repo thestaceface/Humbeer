@@ -180,7 +180,7 @@ nav a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
 	text-align:center;
 }
 
-.main-,enu, .main-menu a {
+.main-menu, .main-menu a {
 	display:block;
 }
 header h1 {
@@ -191,6 +191,12 @@ header h1 {
 	width: 90%;
 	margin: 1.5em 5%;
 }
+
+.more-link {
+	float: right;
+    text-align: right;
+}
+
 @media screen and (min-width:24.25em) /*420px at 16px em*/ {
 	.main-menu li {
 		border-bottom: 0 none;
@@ -258,8 +264,10 @@ header h1 {
 	}
 
 	.content {
-		max-width:62.5em;
+		font-size:125%; /*20px em*/
+		max-width:50em;
 		margin: 0 auto;
+		padding-left: 3%;
 	}
 
 	.featured-post header, .recent-post header {
@@ -271,6 +279,23 @@ header h1 {
 		margin-right:5%;
 	}
 
+
+	.recent-post {
+		width:45%;
+		margin-right:5%;
+		float:left;
+	}
+
+	.recent-text, .featured-text  {
+	    float: left;
+	    padding: 0.5em 0 0.7em;
+	}
+
+	.recent-image {
+	    margin-right: 0;
+	    width: 100%;
+	}
+
 	.author-date {
 	    bottom: 0;
 	    color: #EEEEEE;
@@ -279,14 +304,9 @@ header h1 {
 	    padding:0 0 0.25em;
 	}
 
-	.recent-post {
-		width:45%;
-		margin-right:5%;
-		float:left;
-	}
-
-	.recent-image {
-	    margin-right: 0;
-	    width: 100%;
+	.footer-wrapper {
+	    margin: 0 auto;
+	    max-width: 62.5em;
+	    padding-left: 3%;
 	}
 }	
