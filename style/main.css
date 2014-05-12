@@ -175,6 +175,10 @@ nav a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
 .author-date {
 	color:#914919;
 }
+
+footer p {
+	color:#666;
+}
 /*layout*/
 .header-wrapper {
 	background-color:#260C02;
@@ -199,6 +203,10 @@ header h1 {
 .more-link {
 	float: right;
     text-align: right;
+}
+
+.comments-link {
+	display: inline-block;
 }
 
 @media screen and (min-width:24.25em) /*420px at 16px em*/ {
@@ -243,8 +251,8 @@ header h1 {
 
 	.main-menu {
 		float: right;
-    	margin-top: -8.5em;
-    	width: 50%;
+    		margin-top: -8.5em;
+    		width: 50%;
 	}
 
 	.main-menu li {
@@ -253,6 +261,10 @@ header h1 {
 
 	.main-menu a {
 		background-color:#fff;
+	}
+	
+	.content {
+		max-width:62.5em;
 	}
 }
 
@@ -264,7 +276,7 @@ header h1 {
 	}
 
 	.main-menu ul {
-    	padding-left: 13.75em;
+    		padding-left: 13.75em;
 	}
 
 	.content {
@@ -290,6 +302,11 @@ header h1 {
 		margin-top:5%;
 		float:left;
 	}
+	
+	.recent-post:nth-child(odd) {
+		/*background: green;*/
+		clear:left;
+	}
 
 	.recent-text, .featured-text  {
 	    float: left;
@@ -303,15 +320,16 @@ header h1 {
 
 	h3 a {
 	    font-size: 1.75em;
+	    line-height: 1.25;
 	    padding: 7%;
 	}
 
 	.author-date {
 	    bottom: 0;
-	    color: #EEEEEE;
+	    color: #DEA57E;
 	    position: absolute;
 	    right: 1%;
-	    padding:0 0 0.25em;
+	    padding:0 0.5em 0.25em 0;
 	    font-size:0.75em;
 	}
 
