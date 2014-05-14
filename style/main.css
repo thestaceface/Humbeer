@@ -111,7 +111,7 @@ h2 {
 	padding-top:0.25em;
 }
 
-h3 a{
+h3 a, .blog-post h1{
 	padding:2.5%;
 	font-family:Oswald, Arial, sans-serif;
 	font-weight:700;
@@ -191,7 +191,7 @@ footer p {
 .main-menu, .main-menu a {
 	display:block;
 }
-header h1 {
+.header-wrapper h1 {
 	display:none;
 }
 
@@ -286,7 +286,7 @@ header h1 {
 		padding-left: 3%;
 	}
 
-	.featured-post header, .recent-post header {
+	.featured-post header, .recent-post header, .blog-post header {
 		position:relative;
 	}
 

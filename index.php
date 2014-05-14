@@ -1,39 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
+<?php include('doctop.php') ?>
 	<title>SITE TITLE</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="images/favicon.ico" rel="shortcut icon" />
-	<link href="http://fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700%7cOswald:700" rel="stylesheet" />
-	<link href="style/main.css" rel="stylesheet" />
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-</head>
-<body>
-
-	<div id="wrapper">
-
-		<div id="header-wrapper" class="header-wrapper  cf">
-			<header>
-				<div class="pic-container header-logo">
-					<img src="images/logo.svg" title="Brewhaha" alt="Brewhaha" class="header-logo" />
-				</div>
-				<h1>BREWHAHA</h1>
-			</header>
-
-			<nav class="main-menu">
-				<ul class="cf">
-					<li><a href="#">Home</a></li>
-					<!--<li><a href="#">Recent Posts</a></li> -->
-					<li><a href="#">About</a></li>
-					<li><a href="#">Contact</a></li>
-				</ul>
-			</nav>
-		</div> <!-- header-wrapper -->
-
-		<div id="content-wrapper" class="content-wrapper">
-
-			<section id="content" class="content cf">
-
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+<?php include('docmid.php') ?>
 				<h2>Recent Posts</h2>
 
 				<article class="featured-post">
@@ -100,23 +69,4 @@
 						<a href="#" class="comments-link">'x' Comments</a>
 						<a href="#" class="more-link">Read More...</a>
 				</article>
-
-			</section>
-
-			<aside>
-				<!-- social media, about the blog, tags, ads? -->
-			</aside>
-
-		</div> <!-- content-wrapper -->
-
-		<div id="footer-wrapper" class="footer-wrapper">
-			<footer>
-				<!-- sitemap? -->
-				<p>&copy; 2014 La Croix, Lin, Masson, Navidauskas, Stirling</p>
-			</footer>
-		</div> <!-- footer-container -->
-
-	</div> <!-- wrapper -->
-
-</body>
-</html>
+<?php include('docbottom.php') ?>				
