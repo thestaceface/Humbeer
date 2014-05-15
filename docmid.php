@@ -1,4 +1,4 @@
-	<link href="images/favicon.ico" rel="shortcut icon" />
+	<link href="images/favicon.png" rel="shortcut icon" />
 	<link href="http://fonts.googleapis.com/css?family=Noticia+Text:400,400italic,700%7cOswald:700" rel="stylesheet" />
 	<link href="style/main.css" rel="stylesheet" />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
