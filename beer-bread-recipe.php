@@ -1,16 +1,16 @@
 <?php include('doctop.php') ?>
-	<title>POST TITLE</title>
+	<title>Stout and Cheddar Bread Recipe - Brewhaha</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 <?php include('docmid.php') ?>
 
 				<article class="blog-post">
 					<header>
-						<h1>Scrumptious stout and cheddar bread recipe</h1>
+						<h1>Stout and cheddar bread recipe</h1>
 						<p class="author-date">By: Laurynas on 20/05/2014</p>
 					</header>
 						<div class="pic-container post-image">
-							<img src="images/placeholder_16_9_lg.jpg" title="Beer" alt="Beer" class="post-image" />
+							<img src="images/beer_bread_recipe_01.jpg" title="Beer" alt="Beer" class="post-image" />
 						</div>
 						<p>Say, do you ever wish you could have beer for breakfast, and not in a shameful 'it's almost noon' way, but rather in a sophisticated and classy manner? Do I hear a resounding yes? Then, dear reader, have I got a solution for you!</p>
 
