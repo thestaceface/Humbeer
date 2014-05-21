@@ -1,6 +1,7 @@
-			</section>
+			</div>
 
 			<aside>
+				<h5 class="outline">Aside</h5>
 				<!-- social media, about the blog, tags, ads? -->
 			</aside>
 

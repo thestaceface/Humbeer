@@ -91,11 +91,19 @@ a:focus, a:active {
 
 .cf { display: block; }
 
-
+.outline {display:none;}
 /*typography*/ 
 h1, h2, h3 {
 	text-transform:uppercase;
 }
+
+i, em {
+	font-style:italic;
+}
+
+b, strong {
+	font-weight: bold;
+} 
 
 h1{
 	font-family:Oswald, Arial, sans-serif; /*using webfonts*/
@@ -180,7 +188,7 @@ footer p {
 	color:#666;
 }
 
-blockquote, #ce_list li {
+blockquote, #ce_list li, figcaption {
     background: #FFF7D9;
     font-size: 0.8em;
     font-style: italic;
@@ -188,6 +196,11 @@ blockquote, #ce_list li {
     padding: 1.25em;
 	border-left: 5px solid #DEA57E;
 	color:#333;
+}
+
+figcaption {
+	border-left: 0 none;
+	margin-bottom: 0.75em;
 }
 
 #ce_list li {

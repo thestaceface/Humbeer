@@ -19,6 +19,7 @@
 			</header>
 
 			<nav class="main-menu">
+				<h5 class="outline">Site navigation</h5>
 				<ul class="cf">
 					<li><a href="#">Home</a></li>
 					<!--<li><a href="#">Recent Posts</a></li> -->
@@ -30,4 +31,4 @@
 
 		<div id="content-wrapper" class="content-wrapper">
 
-			<section id="content" class="content cf">
+			<div id="content" class="content cf">

@@ -3,7 +3,7 @@
 
     <div id="ce_list"></div>
 
-    <form id="ce_form" name="ce_form" method="POST" action="">
+    <form id="ce_form" name="ce_form" method="POST" action=".">
         <label for="ce_name">
             Name: <input type="text" name="ce_name" id="ce_name" />
         </label>

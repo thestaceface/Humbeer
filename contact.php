@@ -6,7 +6,7 @@
         
     <h1>Contact Us</h1>
 
-    <form id="con_form" name="con_form" method="POST" action="">
+    <form id="con_form" name="con_form" method="POST" action=".">
         <label for="con_name">
             Name: <input type="text" name="con_name" id="con_name" />
         </label>
