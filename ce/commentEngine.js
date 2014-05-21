@@ -13,11 +13,13 @@ $(document).ready(function(){
 		
 		function ceLoadComments()
 		{
+			//console.log('load comments 2');
 			$.ajax({
+				cache: false,
 				url:'ce/loadComment.php',
 				dataType:'json',
 				success:function(data){
-					
+					//console.log('success');
 					$('#ce_list').html("<ul></ul>");
 				
 					$.each(data, function(){
@@ -43,6 +45,11 @@ $(document).ready(function(){
 				url:'ce/addComment.php',
 				dataType:'json',
 				success:function(data){
-					if(data.result == true) ceLoadComments();
+					//console.log('data.result'+data.result);
+					if(data.result == true) {
+					 ceLoadComments();
+					}
 				}});
+			$('#ce_name').val(""); 
+			$('#ce_comment').val(""); 	
 		}
