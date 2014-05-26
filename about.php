@@ -1,11 +1,20 @@
 <?php include('doctop.php') ?>
 	<title>About Us</title>
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
+	<meta name="description" content="About this beer blog site" />
+	<meta name="keywords" content="about, beer, brewery, brew, pub, gastropub, brewpub, Ontario Craft Beer Week, micro-brew, reviews, beer reviews, pub reviews, Toronto, Ontario" />
 <?php include('docmid.php') ?>
         
     <h1>About Us</h1>
-
-    <p>We like beer and blogs.</p>
-        
+    <h2>“Beer testing requires a lot of hard work and dedication” - said no one ever </h2>
+    <p>This is a student project for Trends in Website Development at Humber College. Our mission is to create a blog site of our choice and search engine optimize it.  We chose beer. Why? Because we thought ‘beer and blogs’ has a nice ring to it.  
+</p><p>Our team has been working hard researching craft beers around Toronto and GTA. We have been going around to various pubs and testing out what beers they have to offer. Basically, we try beers, take notes, and then decipher those notes the next day; just kidding, we don’t take notes.  
+</p>
+        <h3>So what can you find here?</h3>
+        <ul>
+<li><a href="beer-bread-recipe">We have a lovely beer  bread recipe page</a></li>
+<li><a href="best-craft-pubs">Best Craft Beer Hotspots in Toronto</a></li>
+<li><a href="pursuit-of-hoppiness.php">The Pursuit of Hoppiness</a> </li>
+<li><a href="#">At Brew’s End</a></li>
+<li><a href="#">And whatever will’s blog is</a></li>
+</ul>
 <?php include('docbottom.php') ?>
