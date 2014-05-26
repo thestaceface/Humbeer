@@ -52,7 +52,7 @@
 
 						<h2><a href="http://www.thelocalgastropub.com/" title="The Local Gastropub" target="_blank">The Local Gastropub</a></h2>
 						<p><em>37 Maple Avenue, Barrie</em></p>
-						<img src="images/the-local-gastropub.jpg" title="&copy The Local Gastropub" alt="The Local Gastropub's Taps" class="local" />
+						<img src="images/the-local-gastropub.jpg" title="&copy; The Local Gastropub" alt="The Local Gastropub's Taps" class="local" />
 						<p>Opening in 2009, Barrie’s Local Gastropub (or just ‘The Local’ as it’s affectionately known) has dedicated its very existence to three things: </p>
 						<ul class="ulpost">
 							<li>Fresh, locally sourced, and expertly created menu items, ranging from haggis fritters, to a variety of curries, to their (should be) world famous beer battered cod and chips</li>

@@ -27,7 +27,7 @@
 
 					<figure class="pic-container">
 						<img src="images/beer_bread_recipe_02.jpg" title="" alt="Stout in a bottle and pint glass">
-						<figcaption><a href="http://www.alesandmeads.com/" target="_blank"title="Trafalgar Ales And Meads">Trafalgar Ales &amp; Meads Smoked Oatmeal Stout</a> from Oakville, Ontario. I used one 500ml bottle for two loaves. </figcaption>
+						<figcaption><a href="http://www.alesandmeads.com/" target="_blank" title="Trafalgar Ales And Meads">Trafalgar Ales &amp; Meads Smoked Oatmeal Stout</a> from Oakville, Ontario. I used one 500ml bottle for two loaves. </figcaption>
 					</figure> 
 
 					<p>Pour the entire 500 ml bottle of your beer into the bowl. As the beer breaks the surface of bubbled-up leaven, its pieces should float on top of the liquid (this is, in fact, the best way to test if your starter was vigorous enough. If it wasn't, sadly there isn't really a way to go back in time and invigorate it).</p>
