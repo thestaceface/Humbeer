@@ -282,6 +282,21 @@ input[type="submit"]:hover {
     padding-top: 1em;
 }
 
+/*Stacey's Post*/
+.ulpost li{
+	padding:15px;
+}
+
+.imgright, #imgright{
+	float:right;
+}
+
+.figright{
+	max-width:300px;
+	float:right;
+}
+
+
 @media screen and (min-width:24.25em) /*420px at 16px em*/ {
 	.main-menu li {
 		border-bottom: 0 none;
