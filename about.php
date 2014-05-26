@@ -7,7 +7,7 @@
     <h1>About Us</h1>
     <h2>“Beer testing requires a lot of hard work and dedication” - said no one ever </h2>
     <p>This is a student project for Trends in Website Development at Humber College. Our mission is to create a blog site of our choice and search engine optimize it.  We chose beer. Why? Because we thought ‘beer and blogs’ has a nice ring to it.  
-</p><p>Our team has been working hard researching craft beers around Toronto and GTA. We have been going around to various pubs and testing out what beers they have to offer. Basically, we try beers, take notes, and then decipher those notes the next day; just kidding, we don’t take notes.  
+</p><p>Our team has been working hard researching craft beers around Toronto and GTA. We have been going around to various pubs and testing out what beers they have to offer. Basically, we try beers, take notes, and then decipher those notes the next day. Just kidding, we don’t take notes; our memories are impeccable.   
 </p>
         <h3>So what can you find here?</h3>
         <ul>
