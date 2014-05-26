@@ -16,8 +16,8 @@
 						<p>Craft beers are seeing an ever increasing popularity on the shelves of the LCBO and on the taps of Ontario’s bars, pubs, and restaurants.  Many bars have recognized this demand for something new and different, and as a result it’s becoming more and more common to find at least a small craft selection on many of Ontario’s taps these days.</p>
 						<p>This trend has given rise to a different breed of establishment altogether: bars and pubs dedicated entirely to serving craft beer, some of which brew their own.  It seems another in-house brewery or beer bistro is popping up all the time – and I’m not complaining!  (After all, there’s nothing quite like walking into a pub and being greeted by the sweet warm smell of brewing hops.)</p>
 						<p>In honour of <a href="http://www.ocbweek.ca/" title="Ontario Craft Beer Week" target="_blank">Ontario Craft Beer Week</a>, I've rounded up three of Toronto's (and Ontario’s) finest:</p>
-						<br />
-						
+
+
 						<h2><a href="http://toronto.millstreetbrewpub.ca/" title="Mill Street Brew Pub" target="_blank">Mill Street Brew Pub</a></h2>
 						<p><em>21 Tank House Lane, Toronto</em></p>
 						<img src="images/mill-street.jpg" alt="Mill Street Brew Pub" title="Mill Street Brew Pub" />
@@ -28,15 +28,13 @@
 							<li><em>Tankhouse:</em> Tankhouse is a lovely amber coloured ale that delivers punchy hop and malt flavours.  One of Mill Street’s flagship brews, it’s perfect for someone looking for something with a bit of a flavourful kick.</li>
 							<li><em>Cobblestone Stout: </em> Move over Guinness, Cobblestone Stout has arrived!  This is a beer that wins every time for me – if I see it on tap there is no argument about what to order.  Nearly black in colour, Cobblestone Stout goes down as smooth as it looks.  Tiny bubbles, hints of chocolate, and a creamy head, this is <em>the</em> stout to reach for.</li>
 						</ul>
-						<br />
-						<br />
-						
+
 						<h2><a href="http://indiealehouse.com/" title="Indie Ale House" target="_blank">Indie Ale House</a></h2>
 						<p><em>2876 Dundas Street W., Toronto</em></p>
 						<img src="images/indie-ale-house.jpg" alt="Indie Ale House" title="Indie Ale House" />
 						<p>Indie Ale House’s brew pub is relatively new on the scene, opening their doors in Toronto’s up-and-coming Junction neighbourhood in October of 2012.  This place has it all – great food, great staff, and don’t forget tons of great beers!  As if you needed any more reasons to visit, let me give you some anyways:</p>
-						<figure class="pic-container">
-							<figcaption class="figright"><img src="images/indie-flights.jpg" alt="A sampler at Indie Ale House" title="A sampler at Indie Ale House" /><br />We'll have one of each: Flights from a recent visit to the Indie Ale House</figcaption>
+						<figure class="pic-container figright">
+							<img src="images/indie-flights.jpg" alt="A sampler at Indie Ale House" title="A sampler at Indie Ale House" /><figcaption>We'll have one of each: Flights from a recent visit to the Indie Ale House</figcaption>
 						</figure>
 						<ul class="ulpost">
 							<li>Their food menu features fresh and creative items - I’ve yet to try something I don’t love.  Bacon popcorn? Enough said.</li>
@@ -49,11 +47,9 @@
 							<li><em>Breakfast Porter: </em> This beer is very smooth and mild.  Lots of chocolate and cream flavours, it goes surprisingly well with dinner (or you could have it for breakfast, I’m not the boss of you!)</li>
 							<li><em>Instigator IPA: </em> If you like hops and bitterness, this is the beer for you.  Instigator is an IPA lover’s dream.  A beautiful golden straw colour, Instigator is a complex brew that is very approachable.</li>
 						</ul>
-						<br />
-						<br />
-						
+
 						<h2>North of the 416</h2>
-						<br />
+
 						<h2><a href="http://www.thelocalgastropub.com/" title="The Local Gastropub" target="_blank">The Local Gastropub</a></h2>
 						<p><em>37 Maple Avenue, Barrie</em></p>
 						<img src="images/the-local-gastropub.jpg" title="&copy The Local Gastropub" alt="The Local Gastropub's Taps" class="local" />
@@ -65,5 +61,5 @@
 						</ul>
 						<p>The Local has been named one of Ontario's Top 300 pubs by Pub Magazine, and is one of Barrie's top ten rated restaurants on TripAdvisor - stop in sometime to find out why! Here’s a small taste of what they’ve hosted on tap over the years: <em>Lake of Bays Brewing Company, Muskoka Brewery, Flying Monkeys, Mill Street Brewery, Waupoos Cider, Thornbury Cider, Spearhead Brewery, Great Lakes Brewery, Steamwhistle, Sawdust City Brewing Co.</em> and many more.</p>
 				</article>
-<?php include('comments.php') ?>					
-<?php include('docbottom.php') ?>				
+<?php include('comments.php') ?>
+<?php include('docbottom.php') ?>
