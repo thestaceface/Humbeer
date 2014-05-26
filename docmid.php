@@ -21,10 +21,9 @@
 			<nav class="main-menu">
 				<h5 class="outline">Site navigation</h5>
 				<ul class="cf">
-					<li><a href="#">Home</a></li>
-					<!--<li><a href="#">Recent Posts</a></li> -->
-					<li><a href="#">About</a></li>
-					<li><a href="contact">Contact</a></li>
+					<li><a href="/">Home</a></li>
+					<li><a href="/about" title="About">About</a></li>
+					<li><a href="/contact" title="Contact">Contact</a></li>
 				</ul>
 			</nav>
 		</div> <!-- header-wrapper -->

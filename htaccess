@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^brewhahablog.com$ [NC]   
+RewriteRule ^(.*)$ http://brewhahablog.com/$1 [R=301,L]   
+RewriteRule ^(.*)/$ $1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
+</IfModule>

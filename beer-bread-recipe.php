@@ -2,6 +2,7 @@
 	<title>Stout and Cheddar Bread Recipe - Brewhaha</title>
 	<meta name="description" content="Click here for a recipe of scrumptious stout and cheddar sourdough bread" />
 	<meta name="keywords" content="beer, bread, stout, recipe" />
+	<meta name="author" content="Laurynas" />
 <?php include('docmid.php') ?>
 
 				<article class="blog-post">
@@ -16,7 +17,7 @@
 
 					<p>The solution is pretty simple - I said "have beer", not "drink beer", and to be more specific eat it. That's right, eat beer, baked into a loaf of delicious sourdough bread.</p>
 
-					<p>I've been experimenting with sourdough breads for a while now, and I have been maintaining my own rye starter. (For more information on <a href="http://tartine-bread.blogspot.ca/2013/02/9-days.html" target="_blank">sourdough starters,</a> check out Francis-Olive's <a href="http://girlmeetsrye.blogspot.ca/" target="_blank">excellent blog Girl Meets Rye</a>.) Almost always my recipe follows the same pattern - starter, 80% wholewheat, 20% white flour, water and salt. The loaf you see here has one significant departure - the liquid used was not water, but rather a craft Ontario stout. And, to add an extra zing, half a pound of cheese. The results were, if I may say so myself, delectable.</p>
+					<p>I've been experimenting with sourdough breads for a while now, and I have been maintaining my own rye starter. (For more information on <a href="http://tartine-bread.blogspot.ca/2013/02/9-days.html" target="_blank" title="Sourdough Starter">sourdough starters,</a> check out Francis-Olive's <a href="http://girlmeetsrye.blogspot.ca/" target="_blank" title="Girl Meets Rye">excellent blog Girl Meets Rye</a>.) Almost always my recipe follows the same pattern - starter, 80% wholewheat, 20% white flour, water and salt. The loaf you see here has one significant departure - the liquid used was not water, but rather a craft Ontario stout. And, to add an extra zing, half a pound of cheese. The results were, if I may say so myself, delectable.</p>
 
 					<p>Anyone who has baked bread knows that it's not a particularly hard or laborious, but rather long and patience creating process. Assuming you already have some vigorous starter (and if you don't, I'd again refer you to Girl Meets Rye), the entire process from start to finish will take roughly 24 hours.</p>
 
@@ -26,7 +27,7 @@
 
 					<figure class="pic-container">
 						<img src="images/beer_bread_recipe_02.jpg" title="" alt="Stout in a bottle and pint glass">
-						<figcaption><a href="http://www.alesandmeads.com/" target="_blank">Trafalgar Ales &amp; Meads Smoked Oatmeal Stout</a> from Oakville, Ontario. I used one 500ml bottle for two loaves. </figcaption>
+						<figcaption><a href="http://www.alesandmeads.com/" target="_blank"title="Trafalgar Ales And Meads">Trafalgar Ales &amp; Meads Smoked Oatmeal Stout</a> from Oakville, Ontario. I used one 500ml bottle for two loaves. </figcaption>
 					</figure> 
 
 					<p>Pour the entire 500 ml bottle of your beer into the bowl. As the beer breaks the surface of bubbled-up leaven, its pieces should float on top of the liquid (this is, in fact, the best way to test if your starter was vigorous enough. If it wasn't, sadly there isn't really a way to go back in time and invigorate it).</p>
