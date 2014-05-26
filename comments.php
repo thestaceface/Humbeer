@@ -15,9 +15,9 @@
         <input type="submit" value="Add Comment" />
     </form>
 </div>
-<!--every one works except LinkedIn right now.... in process of figuring it out :) -->
+
 <div id="share_links">
 <a href="http://www.facebook.com/sharer/sharer.php?u=<?php $_SERVER['HTTP_REFERER'] ?>">Share on Facebook</a>
-<a href="http://www.linkedin.com/shareArticle?mini=true&url=<?php $_SERVER['HTTP_REFERER']?>">Share LinkedIn Here</a>
-<a href="http://twitter.com/intent/tweet?text=Message&url=<?php $_SERVER['HTTP_REFERER']?>">Share Twitter Here</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://<?php $_SERVER['HTTP_REFERER'] ?>">Share On LinkedIn</a>
+<a href="http://twitter.com/intent/tweet?text=Message&url=<?php $_SERVER['HTTP_REFERER']?>">Share On Twitter</a>
     </div>
