@@ -10,11 +10,11 @@
 </p><p>Our team has been working hard researching craft beers around Toronto and GTA. We have been going around to various pubs and testing out what beers they have to offer. Basically, we try beers, take notes, and then decipher those notes the next day. Just kidding, we don’t take notes; our memories are impeccable.   
 </p>
         <h3>So what can you find here?</h3>
-        <ul>
+        <ul class="ulpost">
 <li><a href="beer-bread-recipe">We have a lovely beer  bread recipe page</a></li>
 <li><a href="best-craft-pubs">Best Craft Beer Hotspots in Toronto</a></li>
 <li><a href="pursuit-of-hoppiness.php">The Pursuit of Hoppiness</a> </li>
 <li><a href="#">At Brew’s End</a></li>
-<li><a href="#">And whatever will’s blog is</a></li>
+<li><a href="#">I Got 99 Bottles but Gluten in None</a></li>
 </ul>
 <?php include('docbottom.php') ?>
