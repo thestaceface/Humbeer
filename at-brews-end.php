@@ -47,10 +47,11 @@
 	<p>If we're still standing at the end of the day, there's no better place to finish off our adventure than in the Mill St Brew Pub in Toronto's Historic Distillery District @ 21 Tank House Ln
 toronto, m5A 3C4. Take in the picturesque atmosphere, cool our sunburns, and relax with our beer buddies after a fantastic day of craft beer and summer cheer.  </p>
 	</li>
+</ol>
+
 	
 	<br />
 	<p> So, who else is in?  Leave a comment and let us know what you think about this epic craft beer crawl! </p>
-</ol>
 
 </article>
 <?php include('comments.php') ?>					
