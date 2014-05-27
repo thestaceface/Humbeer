@@ -1,15 +1,18 @@
 <?php include('doctop.php') ?>
-	<title>Stout and Cheddar Bread Recipe - Brewhaha</title>
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
+	<title>At Brew's End Pub Crawl - Brewhaha</title>
+	<meta name="description" content="Ontario Craft Beer Pub Crawl" />
+	<meta name="keywords" content="Ontario, Craft Beer, Pub Crawl" />
 	<meta name="author" content="Joel and William" />
 <?php include('docmid.php') ?>
 
 <article class="blog-post">
 <header>
 <h1>At Brew's End</h1>
-<p class="author-date">By: Joel</p>
+<p class="author-date">By: Joel on 26/05/2014 </p>
 </header>
+<div class="pic-container post-image">
+							<img src="images/Beer_in_berlin.png" title="Craft Week Pub Crawl" alt="Pub Crawl" class="post-image" />
+						</div>
 <p> My favourite movie of 2013 was most definitely  <a href="http://www.imdb.com/title/tt1213663/">The World's End.</a> </p> 
 
 <p>In this film, a group of old buddies get together to re-attempt the epic pub crawl of their youth, "The Golden Mile"- a feat that they never completed:  five friends, twelve pubs, twelve pints, one night. During the attempt, they begin to notice something strange about their old hometown.  As they progress past each pub, the mystery unfolds and a zany adventure ensues.</p>
@@ -26,22 +29,23 @@
 
 	<li>
 	<h2> The Tom Green Beer Signing with Tom Green @ Summerhill LCBO  </h2>
-	<p>The second stop is the LCBO at 10 Scivener Square Toronto, M4W 3Y9.  Here we will get a chance to meet the infamous comedian, Tom Green, and more importantly, sample the beer he's collaborated on (a collaBEERation!). </p>
+	<p>The second stop is the LCBO at 10 Scivener Square Toronto, M4W 3Y9.  Here we will get a chance to meet the infamous comedian, Tom Green, and more importantly, sample the beer he's collaborated on</p> <p>(a collaBEERation!). </p>
 	</li>
 	
 	<li>
 	 <h2> Beach, BBQ & Brews </h2>
-	 <p>Next on the itinerary is the beach!  There we can enjoy the libations of over half a dozen Ontario craft beer breweries, plus enjoy a little Rock & Ribs live entertainment, while cheering on our favorite competitors in the various BBQ cook-offs</p>
+	 <p>Next on the itinerary is the beach! @Woodbine Park, Toronto, M5A 2R1. There we can enjoy the libations of over half a dozen Ontario craft beer breweries, plus enjoy a little Rock & Ribs live entertainment, while cheering on our favorite competitors in the various BBQ cook-offs</p>
 	</li>
 	
 	<li>
 	<h2>GRIFFIN Session at Dundas Square</h2>
-	<p>Session Toronto 2014 is the main event of our little Craft Beer Fest crawl.  Here, we'll be able to sample 100+ craft beers and unique collaborations!  In addition we'll be seeing savory delights of Bacon Nation there, along with more live music.  The party ends at 9pm, so there’s no time to waste!</p>
+	<p>Session Toronto 2014 is the main event of our little Craft Beer Fest crawl @ 1 Dundas Street east Toronto, M5B 2R8.  Here, we'll be able to sample 100+ craft beers and unique collaborations!  In addition we'll be seeing savory delights of Bacon Nation there, along with more live music.  The party ends at 9pm, so there's no time to waste!</p>
 	</li>
 	
 	<li>
 	<h2>Social Saturdays at the Mill Street Brew Pub</h2>
-	<p>If we're still standing at the end of the day, there's no better place to finish off our adventure than in the Mill St Brew Pub in Toronto's Historic Distillery District.  Take in the picturesque atmosphere, cool our sunburns, and relax with our beer buddies after a fantastic day of craft beer and summer cheer.  </p>
+	<p>If we're still standing at the end of the day, there's no better place to finish off our adventure than in the Mill St Brew Pub in Toronto's Historic Distillery District @ 21 Tank House Ln
+toronto, m5A 3C4. Take in the picturesque atmosphere, cool our sunburns, and relax with our beer buddies after a fantastic day of craft beer and summer cheer.  </p>
 	</li>
 	
 	<br />
