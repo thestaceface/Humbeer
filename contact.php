@@ -2,6 +2,7 @@
 	<title>Contact</title>
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
+	<meta name="author" content="brewhahablog.com" />
 <?php include('docmid.php') ?>
         
     <h1>Contact Us</h1>

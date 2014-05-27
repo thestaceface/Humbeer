@@ -1,21 +1,22 @@
 <?php include('doctop.php') ?>
-	<title>SITE TITLE</title>
+	<title>Craft Beer Blog | Brewhaha</title>
 	<meta name="description" content="" />
-	<meta name="keywords" content="" />
+	<meta name="keywords" content="beer, craft, craft beer, Ontario, Toronto, blog, Ontario Craft Beer Week, gluten-free, pub crawl, hops, brewpub, brew, brew pub, beer bread, breweries, micro-brew" />
+	<meta name="author" content="brewhahablog.com"
 <?php include('docmid.php') ?>
 				<h2>Recent Posts</h2>
 
 				<article class="featured-post">
 					<header>
-						<h3><a href="#">BLOG 1 </a></h3>
-						<p class="author-date">By: Author on 11/11/11</p>
+						<h3><a href="#">Tapping into the Source: The Best Craft Beer Hotspots in Toronto and Beyond</a></h3>
+						<p class="author-date">By: Stacey Masson on 25/05/14</p>
 					</header>
 						<div class="pic-container featured-image">
-							<img src="images/placeholder_16_9_lg.jpg" title="Beer" alt="Beer" class="recent-image" />
+							<img src="images/the-local-gastropub.jpg" title="&copy The Local Gastropub" alt="The Local Gastropub" class="recent-image" />
 						</div>
-						<p class="featured-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis tellus orci, et porttitor massa aliquam eget. Nulla elementum sodales nulla, eu faucibus dolor suscipit placerat. Nulla non eleifend lorem. Etiam pulvinar lorem vitae convallis molestie. </p>
-						<a href="#" class="comments-link">'x' Comments</a>
-						<a href="#" class="more-link">Read More...</a>
+						<p class="featured-text">Can’t get enough craft beer, and want to get straight to the source?  Read ahead to find out where in Toronto (and beyond!) to go to quench that thirst!</p>
+						<!--<a href="#" class="comments-link">'x' Comments</a>-->
+						<a href="best-craft-pubs" class="more-link">Read More...</a>
 				</article>
 
 				<article class="recent-post">
@@ -47,7 +48,7 @@
 				<article class="recent-post">
 					<header>
 						<h3><a href="#">BLOG 4</a></h3>
-						<p class="author-date">By: Author on 11/11/11</p>
+						<p class="author-date">By: Laurynas on 11/11/11</p>
 					</header>
 						<div class="pic-container recent-image">
 							<img src="images/placeholder_16_9_md.jpg" title="Beer" alt="Beer" class="recent-image" />
