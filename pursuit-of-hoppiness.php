@@ -7,7 +7,7 @@
 
 <article class="blog-post">
 					<header>
-						<h1>If You Like A Good Hop</h1>
+						<h1>Pursuit of Hoppiness</h1>
 						<p class="author-date">By: Danielle Stirling on 25/05/20</p>
 					</header>
 					

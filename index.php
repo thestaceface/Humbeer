@@ -20,7 +20,7 @@
 
 				<article class="recent-post">
 					<header>
-						<h3><a href="pursuit-of-hoppiness.php">BLOG 2 </a></h3>
+						<h3><a href="pursuit-of-hoppiness.php">Pursuit of Hoppiness </a></h3>
 						<p class="author-date">By: Danielle Stirling on 25/05/20</p>
 					</header>
 						<div class="pic-container recent-image">
