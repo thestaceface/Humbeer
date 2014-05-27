@@ -1,7 +1,7 @@
 <?php include('doctop.php') ?>
 	<title>Hoppiness</title>
 	<meta name="description" content="A list of different hops beers" />
-	<meta name="keywords" content="hops, hop, beer, craft, brewery, brew, pub, gastropub, brewpub, Ontario Craft Beer Week, micro-brew, reviews, beer reviews, pub reviews, Toronto, Guelph, Ontario, Wellington, The 3 Brewers, Les 3 Brasseurs " />
+	<meta name="keywords" content="hops, hop, beer, Arkell, Arkell Best Bitter, Blonde, craft, brewery, brew, pub, gastropub, brewpub, Ontario Craft Beer Week, micro-brew, reviews, beer reviews, pub reviews, Toronto, Guelph, Ontario, Wellington, The 3 Brewers, Les 3 Brasseurs " />
 	<meta name="author" content="Danielle Stirling" />
 <?php include('docmid.php') ?>
 
