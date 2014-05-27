@@ -15,9 +15,12 @@
         <input type="submit" value="Add Comment" />
     </form>
 </div>
-
+<?php 
+$blogName = str_replace(".php", "", $_SERVER['PHP_SELF']);
+$shareLink = 'http://brewhahablog.com'.$blogName;
+?>
 <div id="share_links">
-<a href="http://www.facebook.com/sharer/sharer.php?u=<?php echo $_SERVER['HTTP_REFERER'] ?>">Share on Facebook</a>
-<a href="http://www.linkedin.com/shareArticle?mini=true&url=http://<?php echo $_SERVER['HTTP_REFERER'] ?>">Share On LinkedIn</a>
-<a href="http://twitter.com/intent/tweet?text=Message&url=<?php echo $_SERVER['HTTP_REFERER']?>">Share On Twitter</a>
+<a href="http://www.facebook.com/sharer/sharer.php?u=<?php echo $shareLink ?>">Share on Facebook</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=<?php echo $shareLink ?>">Share On LinkedIn</a>
+<a href="http://twitter.com/intent/tweet?text=Message&url=<?php echo $shareLink ?>">Share On Twitter</a>
     </div>
