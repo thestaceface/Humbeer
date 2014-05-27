@@ -27,7 +27,7 @@
 							<img src="images/dee_beer.jpg" title="Beer" alt="Beer" class="recent-image" />
 						</div>
 						<p class="recent-text">With  <a href="http://www.ocbweek.ca/" title="Ontario Craft Beer Week" target="_blank">Ontario Craft Beer Week</a> coming up it only seems appropriate to write about beer. My favorite beers are always a little (or a lot) hoppy, thus, my celebration of Craft Beer Week resides in trying every hop beer I can find.   In anticipation for the best week of the whole year I present to you: My Favorite Crafty Hop.</p>
-						<a href="#" class="comments-link">'x' Comments</a>
+						<a href="pursuit-of-hoppiness.php" class="comments-link">'x' Comments</a>
 						<a href="#" class="more-link">Read More...</a>
 				</article>
 
