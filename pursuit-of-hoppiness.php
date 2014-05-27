@@ -10,9 +10,7 @@
 						<h1>If You Like A Good Hop</h1>
 						<p class="author-date">By: Danielle Stirling on 25/05/20</p>
 					</header>
-						<div class="pic-container post-image">
-							<img src="images/dee_beer.jpg" title="&Arkell Best Bitter" alt="Beer Picture" class="post-image" />
-						</div>
+					
 						<p></p>
 						<p>I like beer, you like beer, why else would you be here?  With  <a href="http://www.ocbweek.ca/" title="Ontario Craft Beer Week" target="_blank">Ontario Craft Beer Week</a> coming up it only seems appropriate to write about beer. My favorite beers are always a little (or a lot) hoppy, thus, my celebration of Craft Beer Week resides in trying every hop beer I can find.   In anticipation for the best week of the whole year I present to you: My Favorite Crafty Hop.</p>
 

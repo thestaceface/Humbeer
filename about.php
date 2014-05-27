@@ -2,6 +2,7 @@
 	<title>About Us</title>
 	<meta name="description" content="About this beer blog site" />
 	<meta name="keywords" content="about, beer, brewery, brew, pub, gastropub, brewpub, Ontario Craft Beer Week, micro-brew, reviews, beer reviews, pub reviews, Toronto, Ontario" />
+	<meta name="author" content="Brewhaha.com" />
 <?php include('docmid.php') ?>
         
     <h1>About Us</h1>
@@ -11,7 +12,7 @@
 </p>
         <h3><strong>So what can you find here?</strong></h3>
         <br />
- <ul class="ulpost">The Pursuit of Hoppiness
+ 	<ul class="ulpost">The Pursuit of Hoppiness
 <li><a href="beer-bread-recipe">We have a lovely beer  bread recipe page</a></li>
 <li><a href="best-craft-pubs">Best Craft Beer Hotspots in Toronto</a></li>
 <li><a href="pursuit-of-hoppiness"></a></li>
