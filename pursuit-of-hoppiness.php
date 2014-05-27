@@ -14,7 +14,7 @@
 						<p></p>
 						<p>I like beer, you like beer, why else would you be here?  With  <a href="http://www.ocbweek.ca/" title="Ontario Craft Beer Week" target="_blank">Ontario Craft Beer Week</a> coming up it only seems appropriate to write about beer. My favorite beers are always a little (or a lot) hoppy, thus, my celebration of Craft Beer Week resides in trying every hop beer I can find.   In anticipation for the best week of the whole year I present to you: My Favorite Crafty Hop.</p>
 
-						<h2><a href="http://www.wellingtonbrewery.ca/index.php?Page=Our_Beers&Beer=3" title="Wellington Brewery" target="_blank">Arkell Best Bitter</a></h2>
+						<h2><a href="http://www.wellingtonbrewery.ca/index.php?Page=Our_Beers&amp;Beer=3" title="Wellington Brewery" target="_blank">Arkell Best Bitter</a></h2>
 						<p>
 							Guelph has a lovely brewery by the name of Wellington Brewery.  This Brewery has never let me down; hops or not, if you are in Guelph go get yourself a Welly! Excuse me if I write passionately about this one and it makes you feel slightly uncomfortable but I can’t apologize for the nostalgia I have for this beer.</p>
 							<br />
