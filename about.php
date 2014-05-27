@@ -14,7 +14,7 @@
 <li><a href="beer-bread-recipe">We have a lovely beer  bread recipe page</a></li>
 <li><a href="best-craft-pubs">Best Craft Beer Hotspots in Toronto</a></li>
 <li><a href="pursuit-of-hoppiness.php">The Pursuit of Hoppiness</a> </li>
-<li><a href="gluten-in-none">At Brew’s End</a></li>
-<li><a href="gluten-in-none.php">I Got 99 Bottles but Gluten in None</a></li>
+<li><a href="#">At Brew’s End</a></li>
+<li><a href="99-bottles-but-gluten-in-none.php">I Got 99 Bottles but Gluten in None</a></li>
 </ul>
 <?php include('docbottom.php') ?>
