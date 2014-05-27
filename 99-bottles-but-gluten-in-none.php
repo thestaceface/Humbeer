@@ -1,5 +1,5 @@
 <?php include('doctop.php') ?>
-	<title>Hoppiness</title>
+	<title>99 Bottles But Gluten In None</title>
 	<meta name="description" content="One man's journey of exploration through the world of Gluten-Free Beer" />
 	<meta name="keywords" content="Gluten, Celiac, Coeliac, FODMAP, Fermentable Oligo Di Mono-saccharides And Polyols, Nickelbrook, beverage, LCBO" />
 	<meta name="author" content="Will Lin" />
