@@ -12,10 +12,10 @@
 </p>
         <h3><strong>So what can you find here?</strong></h3>
         <br />
- 	<ul class="ulpost">The Pursuit of Hoppiness
+ 	<ul class="ulpost">
 <li><a href="beer-bread-recipe">We have a lovely beer  bread recipe page</a></li>
 <li><a href="best-craft-pubs">Best Craft Beer Hotspots in Toronto</a></li>
-<li><a href="pursuit-of-hoppiness"></a></li>
+<li><a href="pursuit-of-hoppiness">The Pursuit of Hoppiness</a></li>
 <li><a href="at-brews-end">At Brew’s End</a></li>
 <li><a href="99-bottles-but-gluten-in-none">I Got 99 Bottles, But Gluten In None</a></li>
 </ul>
