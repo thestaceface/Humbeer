@@ -11,7 +11,6 @@
 						<p class="author-date">By: Stacey Masson on 25/05/14</p>
 					</header>
 						<div class="pic-container post-image">
-							<!--<img src="images/local-taps.jpg" title="&copy The Local Gastropub" alt="The Local Gastropub's Taps" class="post-image" />-->
 						</div>
 						<p>Craft beers are seeing an ever increasing popularity on the shelves of the LCBO and on the taps of Ontario’s bars, pubs, and restaurants.  Many bars have recognized this demand for something new and different, and as a result it’s becoming more and more common to find at least a small craft selection on many of Ontario’s taps these days.</p>
 						<p>This trend has given rise to a different breed of establishment altogether: bars and pubs dedicated entirely to serving craft beer, some of which brew their own.  It seems another in-house brewery or beer bistro is popping up all the time – and I’m not complaining!  (After all, there’s nothing quite like walking into a pub and being greeted by the sweet warm smell of brewing hops.)</p>
