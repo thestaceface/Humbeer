@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>http://www.brewhahablog.com</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+   </url>
+   <url>
+      <loc> http://brewhahablog.com/beer-bread-recipe</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>http://www.brewhahablog.com/99-problems-but-gluten-in-none</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>http://www.brewhahablog.com/at-brews-end</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.9</priority>
+   </url>
+   <url>
+      <loc>http://www.brewhahablog.com/pursuit-of-hoppiness</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.9</priority>
+   </url>         
+   <url>
+      <loc>http://www.brewhahablog.com/best-craft-pubs</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.9</priority>
+   </url>   
+   <url>
+      <loc>http://www.brewhahablog.com/about</loc>
+      <lastmod>2014-05-25</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>      
+   <url>
+      <loc>http://www.brewhahablog.com/contact</loc>
+      <lastmod>2014-05-27</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.6</priority>
+   </url>         
+</urlset> 

@@ -8,7 +8,7 @@
 <article class="blog-post">
 	<header>
 		<h1>I Got 99 Bottles, But Gluten In None</h1>
-		<p class="author-date">By: Will Lin on 14/05/27</p>
+		<p class="author-date">By: Will Lin on 25/05/2014</p>
 	</header>
 		<div class="pic-container post-image">
 			<!--<img src="images/local-taps.jpg" title="&copy The Local Gastropub" alt="The Local Gastropub's Taps" class="post-image" />-->
