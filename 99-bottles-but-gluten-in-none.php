@@ -10,9 +10,7 @@
 		<h1>I Got 99 Bottles, But Gluten In None</h1>
 		<p class="author-date">By: Will Lin on 25/05/2014</p>
 	</header>
-		<div class="pic-container post-image">
-			<!--<img src="images/local-taps.jpg" title="&copy The Local Gastropub" alt="The Local Gastropub's Taps" class="post-image" />-->
-		</div>
+
 	<p>Ok you lucky boys and girls.  I'm going to be taking one (or two) for the team today by sampling and reviewing some gluten-free options.  Most people of the gluten-free eaters (myself included) absolutely hate their beer options.  I don’t have celiac/coeliac disease or IBS, but I do have a weird gluten insensitivity that has a tendency to cause a pretty unpleasant joint inflammation that can mess with my mobility sometimes.  Recently, people haven’t been able to resist sending me <a href="http://www.huffingtonpost.ca/2014/05/14/gluten-intolerance-fake_n_5327420.html" target="_blank" />this article about how gluten intolerance may actually not exist</a>.  That article may be true, but it doesn’t really change my eating habits.  Saying I stick to a gluten-free diet is a lot easier than telling people that I’m sensitive to Fermentable, Oligo-, Di-, Mono-saccharides And Polyols (FODMAPs).  Semantics.</p>
 
 	<figure class="pic-container">
@@ -33,8 +31,8 @@
 	<p>Although my first taste of this beer was admittedly confused, there have been times when I’ve started a night being apprehensive  a certain beer only to absolutely love it on my 3rd or 4th round… so, here’s how it went.</p>
 
 	<figure class="pic-container figright">
-		<img src="images/nickelbrook-can.jpg" title="Nickelbrook Gluten Free Alcoholic Beverage" alt="Nickelbrook Gluten Free Alcoholic Beverage in a can" />
-		<figcaption>A penny for your thoughts, a Nickel for your thirst.</figcaption>
+		<img src="images/nickelbrook-can.jpg" title="Nickelbrook Gluten Free Alcoholic Beverage Can" alt="Nickelbrook Gluten Free Alcoholic Beverage in a can" />
+		<figcaption>A blend of Sorghum, Demerara Sugar and Pear Juice.</figcaption>
 	</figure>
 	<ul class="ulpost">
 		<li>1st Round:  Hmm.  Is it beer?  Is it cider?  Either option is good, but being halfway between is kind of confusing… but in a good way.</li>   
