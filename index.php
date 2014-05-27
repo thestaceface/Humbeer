@@ -1,6 +1,6 @@
 <?php include('doctop.php') ?>
 	<title>Craft Beer Blog | Brewhaha</title>
-	<meta name="description" content="" />
+	<meta name="description" content="Brewhaha is your source for all things craft beer. Reviews, recipes, where to find the best craft beer - find it all on Brewhaha" />
 	<meta name="keywords" content="beer, craft, craft beer, Ontario, Toronto, blog, Ontario Craft Beer Week, gluten-free, pub crawl, hops, brewpub, brew, brew pub, beer bread, breweries, micro-brew" />
 	<meta name="author" content="brewhahablog.com"
 <?php include('docmid.php') ?>

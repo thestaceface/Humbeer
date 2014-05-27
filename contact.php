@@ -1,7 +1,7 @@
 <?php include('doctop.php') ?>
 	<title>Contact</title>
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
+	<meta name="description" content="Contact the Brewhaha team" />
+	<meta name="keywords" content="contact, feedback" />
 	<meta name="author" content="brewhahablog.com" />
 <?php include('docmid.php') ?>
         
