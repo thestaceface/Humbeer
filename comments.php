@@ -19,7 +19,7 @@
 $blogName = str_replace(".php", "", $_SERVER['PHP_SELF']);
 $shareLink = 'http://brewhahablog.com'.$blogName;
 ?>
-<div id="share_links">
+<div id="share_links" class="share_links">
 <a href="http://www.facebook.com/sharer/sharer.php?u=<?php echo $shareLink ?>">Share on Facebook</a>
 <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=<?php echo $shareLink ?>">Share On LinkedIn</a>
 <a href="http://twitter.com/intent/tweet?text=Message&amp;url=<?php echo $shareLink ?>">Share On Twitter</a>

@@ -112,12 +112,17 @@ h1{
 	font-size:2.5em;/*font sizes in ems for beter scalability*/
 	padding-bottom: 0.5em;
 }
-h2 {
+h2, h3 {
 	font-family:Oswald, Arial, sans-serif;
 	font-weight:700;
 	color:#914919;
 	font-size:1.75em;
 	padding-top:0.25em;
+}
+
+h3 {
+	color:#260C02;
+	font-size: 1.5em;
 }
 
 h2 a, h3 a, .blog-post h1{
@@ -190,7 +195,7 @@ footer p {
 	color:#666;
 }
 
-blockquote, #ce_list li, figcaption, .ulpost li {
+blockquote, #ce_list li, figcaption, .ulpost li, ol li {
     background: #FFF7D9;
     font-size: 0.8em;
     font-style: italic;
@@ -208,6 +213,29 @@ figcaption {
 #ce_list li {
 	padding-top: 0;
 	margin-bottom: 1em;
+}
+
+ol li {
+	margin-bottom: 1em;
+	list-style-type: decimal;
+	margin-left:1em;
+}
+
+ol li h2{
+	font-style:normal;
+	margin-bottom: 0.25em;
+}
+
+.share_links a{
+	display:inline-block;
+	margin-top: 1em;
+	color:#ffffff;
+	background-color:#914919;
+	padding: 0.25em 0.5em;
+}
+.share_links a:hover{
+    background-color:#260C02;
+    text-decoration:none;
 }
 /*layout*/
 .header-wrapper {
