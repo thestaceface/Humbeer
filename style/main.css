@@ -254,6 +254,13 @@ ol li h2{
 	margin-bottom: 0.25em;
 }
 
+.ulpost li{
+	margin-bottom: 1em;
+	background:transparent;
+	font-size: 0.9em;
+	
+}
+
 .share_links a{
 	display:inline-block;
 	margin-top: 1em;
@@ -339,25 +346,7 @@ input[type="submit"]:hover {
     padding-top: 1em;
 }
 
-/*Stacey's Post*/
-.ulpost li{
-	/*padding:15px;*/
-	margin-bottom: 1em;
-	background:transparent;
-	font-size: 0.9em;
-	
-}
 
-.imgright, #imgright{
-	float:right;
-}
-
-.figright{
-	max-width:300px;
-	float:right;
-	margin-left: 1em;
-	
-}
 
 
 @media screen and (min-width:24.25em) /*420px at 16px em*/ {
@@ -383,6 +372,17 @@ input[type="submit"]:hover {
 		width: 30%;
 		margin-right:5%;
 		float:left;
+	}
+
+	.imgright, #imgright{
+	float:right;
+	}
+
+	.figright{
+		max-width:300px;
+		float:right;
+		margin-left: 1em;
+		
 	}
 }
 
