@@ -125,6 +125,10 @@ h3 {
 	font-size: 1.5em;
 }
 
+h3 a {
+	font-size: 1em;
+}
+
 h2 a, h3 a, .blog-post h1{
 	padding:2.5%;
 	font-family:Oswald, Arial, sans-serif;
@@ -450,7 +454,7 @@ input[type="submit"]:hover {
 	}
 
 	h3 a {
-	    font-size: 1.75em;
+	    font-size: 1.25em;
 	    line-height: 1.25;
 	    padding: 7%;
 	}
