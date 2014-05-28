@@ -238,6 +238,9 @@ figcaption {
 	margin-bottom: 0.75em;
 }
 
+.figright{
+		max-width:18.75em;
+}
 #ce_list li {
 	padding-top: 0;
 	margin-bottom: 1em;
@@ -379,7 +382,6 @@ input[type="submit"]:hover {
 	}
 
 	.figright{
-		max-width:300px;
 		float:right;
 		margin-left: 1em;
 		
